@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" fill="none" width="240" height="48">
+  <!-- Mistvale Logo: Handcrafted leaf & hill emblem with refined serif typography -->
+  <g transform="translate(4, 6)">
+    <!-- Stylized Rolling Tea Hill & Rising Leaf Motif -->
+    <path d="M 6 30 C 14 18, 26 12, 34 26 C 26 26, 18 28, 6 30 Z" fill="#4f7942" opacity="0.9"/>
+    <path d="M 16 30 C 22 14, 34 6, 36 2 C 38 12, 34 22, 24 30 Z" fill="#1f3d2b"/>
+    <path d="M 2 30 C 12 28, 22 29, 36 30" stroke="#d9962b" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Brand Name Typography -->
+  <text x="50" y="31" font-family="'Fraunces', 'Playfair Display', Georgia, serif" font-size="25" font-weight="700" fill="#1f3d2b" letter-spacing="-0.02em">Mistvale</text>
+  <text x="160" y="31" font-family="'DM Sans', 'Inter', sans-serif" font-size="12" font-weight="500" fill="#4f7942" letter-spacing="0.08em">TEA CO.</text>
+</svg>
